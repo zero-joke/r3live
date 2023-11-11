@@ -1,0 +1,2 @@
+r3live/r3live
+-DCATKIN_DEVEL_PREFIX=/home/zjk/env/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zjk/env/catkin_ws/install -G Unix Makefiles
